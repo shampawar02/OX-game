@@ -1,2 +1,2 @@
 # OX-game
-OX game
+simple OX game
